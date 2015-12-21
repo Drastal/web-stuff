@@ -1,2 +1,2 @@
-# Web tools
-The repository contains some tools for web projects
+# Web stuff
+The repository contains some stuff for web projects
